@@ -1,4 +1,4 @@
-# 📱 MyApp APK
+# 📱 Garuda APK
 
 A simple Android application packaged as an APK, designed to demonstrate core functionality and easy installation.
 
