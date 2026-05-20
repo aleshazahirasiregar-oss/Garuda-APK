@@ -1,30 +1,38 @@
-# 📱 Garuda APK
+# Game Tahan Kencing 💧👖
 
-A simple Android application packaged as an APK, designed to demonstrate core functionality and easy installation.
+Survival game paling absurd: siapa yang bisa menahan kencing sampai rumah?  
+Bladder meter naik terus, kalau 100% → kencing celana, dan kawannya jadi sus 🤔.
+
+## 🎮 Mekanik Utama
+- **Bladder Meter** 💧: naik seiring waktu.
+- **Mini-games** 🎮: puzzle/refleks untuk mengalihkan perhatian.
+- **Power-ups** ⚡: minum teh hijau (bladder cepat penuh), makan garam (delay dorongan).
+- **Boss Fight** 🧻🚽: Toilet Monster menggoda pemain untuk menyerah.
+- **Kawan Sus** 🤔: kalau bladder 100%, trust level turun dan kawannya jadi sus.
+
+## 🏆 Tujuan
+- Bertahan sampai rumah 🏠 dengan bladder < 100%.
+- Kalau bladder = 100% → kencing celana 👖, game over.
+
+## 📂 Struktur Repo
+- `/src` → kode utama game
+- `/assets` → sprite elang 🦅, toilet monster 🧻
+- `/docs` → lore & instruksi
+- `/issues` → ide absurd dari komunitas
+
+## 🚀 Cara Main
+1. Clone repo: `git clone https://github.com/username/game-tahan-kencing.git`
+2. Masuk folder: `cd game-tahan-kencing`
+3. Jalankan: `python main.py` (atau sesuai bahasa yang dipakai)
+4. Tahan kencing sampai rumah 🏠!
+
+## 🤝 Kontribusi
+- Fork repo
+- Buat branch baru
+- Tambahkan fitur absurd (misalnya "Parade Elang Sigma 🦅")
+- Pull request ke repo utama
 
 ---
 
-## 🚀 Features
-- Lightweight and fast
-- Easy installation via APK
-- Compatible with Android 8.0 (Oreo) and above
-- Open-source and customizable
-
----
-
-## 📦 Installation
-1. Download the latest release from the [Releases](../../releases) section.
-2. On your Android device, enable **Install from Unknown Sources** in settings.
-3. Open the downloaded `.apk` file and install.
-4. Launch the app and enjoy!
-
----
-
-## 🛠️ Requirements
-- Android 8.0 (API level 26) or higher
-- Minimum 100 MB free storage
-- Internet connection (for online features)
-
----
-
-## 📂 Project Structure
+**Arena coding absurd ini open-source.**  
+Siapapun boleh ikut kontribusi, asal tahan kencing dulu 💧👖.
